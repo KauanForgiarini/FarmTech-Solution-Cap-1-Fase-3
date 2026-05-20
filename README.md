@@ -297,16 +297,5 @@ jupyter notebook KauanMacielForgiarini_RM574005_fase3_cap1.ipynb
 
 ---
 
-## 8. Vídeo Demonstrativo
-
-> 🎥 **[Clique aqui para assistir no YouTube](https://youtube.com/watch?v=LINK_DO_VIDEO)**
-
-O vídeo demonstra:
-- Conexão e importação dos dados no Oracle SQL Developer
-- Execução das queries SQL com resultados
-- Dashboard Streamlit em funcionamento com gráficos interativos
-- Notebook de Machine Learning com os 5 modelos e análise comparativa
-
----
 
 *Desenvolvido por **Kauan Maciel Forgiarini** — RM574005 | FIAP IA – Fase 3 | 2026*
